@@ -12,5 +12,9 @@
 Di era revolusi industri 4.0 seperti sekarang ini, dunia digital sangat berperan dalam memudahkan pekerjaan manusia,<br>
 </p>
 <p>Saat ini aktivitas online / daring merupakan hal yang banyak dilakukan untuk kegiatan manusia sehari-hari.</p>
+<ul>
+<li>satu</li>
+<li>dua</li>
+</ul>
 </body>
 </html>
